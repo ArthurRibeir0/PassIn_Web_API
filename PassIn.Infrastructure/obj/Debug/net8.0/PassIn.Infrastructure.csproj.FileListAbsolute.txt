@@ -1,0 +1,12 @@
+C:\dev\ProjetosC#\RocketSeat\PassIn\PassIn.Infrastructure\bin\Debug\net8.0\PassIn.Infrastructure.deps.json
+C:\dev\ProjetosC#\RocketSeat\PassIn\PassIn.Infrastructure\bin\Debug\net8.0\PassIn.Infrastructure.dll
+C:\dev\ProjetosC#\RocketSeat\PassIn\PassIn.Infrastructure\bin\Debug\net8.0\PassIn.Infrastructure.pdb
+C:\dev\ProjetosC#\RocketSeat\PassIn\PassIn.Infrastructure\obj\Debug\net8.0\PassIn.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\ProjetosC#\RocketSeat\PassIn\PassIn.Infrastructure\obj\Debug\net8.0\PassIn.Infrastructure.AssemblyInfoInputs.cache
+C:\dev\ProjetosC#\RocketSeat\PassIn\PassIn.Infrastructure\obj\Debug\net8.0\PassIn.Infrastructure.AssemblyInfo.cs
+C:\dev\ProjetosC#\RocketSeat\PassIn\PassIn.Infrastructure\obj\Debug\net8.0\PassIn.Infrastructure.csproj.CoreCompileInputs.cache
+C:\dev\ProjetosC#\RocketSeat\PassIn\PassIn.Infrastructure\obj\Debug\net8.0\PassIn.Infrastructure.dll
+C:\dev\ProjetosC#\RocketSeat\PassIn\PassIn.Infrastructure\obj\Debug\net8.0\refint\PassIn.Infrastructure.dll
+C:\dev\ProjetosC#\RocketSeat\PassIn\PassIn.Infrastructure\obj\Debug\net8.0\PassIn.Infrastructure.pdb
+C:\dev\ProjetosC#\RocketSeat\PassIn\PassIn.Infrastructure\obj\Debug\net8.0\ref\PassIn.Infrastructure.dll
+C:\dev\ProjetosC#\RocketSeat\PassIn\PassIn.Infrastructure\obj\Debug\net8.0\PassIn.Infrastructure.csproj.AssemblyReference.cache
